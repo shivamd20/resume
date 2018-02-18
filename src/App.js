@@ -39,7 +39,7 @@ class App extends Component {
   }
 
   render() {
-    const defaultLanguage = process.env.REACT_APP_LOCALE || 'ja';
+    const defaultLanguage = process.env.REACT_APP_LOCALE || 'en';
     const locale = this.props.currentLanguage || defaultLanguage;
     const { onChangeLanguage } = this.props;
 

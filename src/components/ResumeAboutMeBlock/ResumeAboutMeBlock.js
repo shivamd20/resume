@@ -55,7 +55,9 @@ const ResumeAboutMeBlock = ({ style, fullName, headline, summary, pictureUrl, re
 
 
         <div className="ResumeAboutMeBlock-profilePicture Resume-profilePicture">
-          <img alt="" src={pictureUrl} />
+          <img alt="" src={pictureUrl} style={{
+            width:"400px"
+          }} />
         </div>
       </div>
 
