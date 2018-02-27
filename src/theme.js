@@ -10,23 +10,29 @@ import JavascriptIcon from 'react-devicon/javascript/plain';
 import DockerIcon from 'react-devicon/docker/plain';
 import WordpressIcon from 'react-devicon/wordpress/plain';
 import CordovaIcon from './components/Icons/Apachecordova';
+import IconJava from 'react-devicon/java/original'
+import IconNodejs from 'react-devicon/nodejs/original'
+import IconNpm from 'react-devicon/npm/original-wordmark'
+import IconAndroid from 'react-devicon/android/plain' 
+import IconGit from 'react-devicon/git/original'
 
 const theme = {
+  
   laravelColor: {
     style: {
       background: '#fd4f31',
       color: '#fff',
     },
     className: 'vertical-timeline-element--laravel',
-    icon: <LaravelIcon />,
+    icon: <IconJava />,
   },
   phpColor: {
     style: {
-      background: '#6181b6',
-      color: '#fff',
+      background: '#1CA554',
+      color: '#lightGreen',
     },
     className: 'vertical-timeline-element--php',
-    icon: <PhpIcon />,
+    icon: <IconNodejs />,
   },
   reactColor: {
     style: {
@@ -38,11 +44,11 @@ const theme = {
   },
   rubyColor: {
     style: {
-      background: '#d91404',
+      background: 'green',
       color: '#fff',
     },
     className: 'vertical-timeline-element--ruby',
-    icon: <RubyIcon />,
+    icon: <IconAndroid />,
   },
   railsColor: {
     style: {
@@ -50,7 +56,7 @@ const theme = {
       color: '#fff',
     },
     className: 'vertical-timeline-element--rails',
-    icon: <RailsIcon />,
+    icon: <IconNpm /> ,
   },
   javascriptColor: {
     style: {
@@ -66,7 +72,7 @@ const theme = {
       color: '#fff',
     },
     className: 'vertical-timeline-element--docker',
-    icon: <DockerIcon />,
+    icon: <IconGit />,
   },
   cordovaColor: {
     style: {

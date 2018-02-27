@@ -7,15 +7,15 @@
   "firstName": "Shivam",
   "lastName": "Dwivedi",
   "emailAddress": "shivamd20@gmail.com",
-  "headline": "Full-stack web engineer in India",
-  "summary": "Experienced Product Development Intern, Developer & Teacher with a demonstrated history of working in the internet industry. Skilled in Java (Swing, Servlets, JSP), TDD, continuous integration, WordPress, Linux System Administration, and Application Programming Interfaces.<br /><br />Strong engineering professional with a Licence focused in Web Development from Université Claude Bernard Lyon 1.<br /><br />My favourite stack : Laravel 5, Symfony 3, PHPUnit, PHPQA, Micro-services, Docker, ReactJS, ReactNative with continuous integration on Gitlab.",
+  "headline": "Full-stack Web Developer in India",
+  "summary": "Experienced Web and Mobile App Developer  with a demonstrated history of working in the internet industry. Skilled in Java (Android App Development, Swing, Servlets, JSP), JavaScript (ReactJS, NodeJS) with git as version control system.",
   "pictureUrl": "http://nptel.ac.in/noc/Candidate_photopath/Jan-Mar%202017/STMAR171008617_photo.jpg",
   "dateOfBirth": "1996-09-29",
   "mainAddress": "Bhilai, Chhattisgarh",
   "websites": [
     {
       "type": "Linkedin",
-      "url": "https://www.linkedin.com/in/shivamd20/"
+      "url": "dakshya.tech"
     }
   ],
   "phoneNumbers": [
@@ -31,7 +31,7 @@
   "imAccounts": [
     {
       "type": "Line",
-      "name": "shinbuntu"
+      "name": "shivamd20"
     },
     {
       "type": "Skype",
@@ -42,55 +42,55 @@
     {
       "name": "Linkedin",
       "icon": "linkedin",
-      "url": "https://www.linkedin.com/in/monnotstephane/"
+      "url": "https://www.linkedin.com/in/shivamd20/"
     },
     {
       "name": "Github",
       "icon": "github",
-      "url": "https://github.com/stephane-monnot"
+      "url": "https://github.com/shivamd20"
     }
   ],
   "locations": [
     {
-      "name": "Osaka",
-      "country": "Japan",
+      "name": "Bhilai",
+      "country": "India",
       "isCurrent": true
     },
     {
-      "name": "Lyon",
-      "country": "France"
+      "name": "Ambikapur",
+      "country": "India"
     }
   ],
   "positions": [
     {
-      "title": "Full-stack web engineer",
-      "summary": "PHP/MySQL/Javascript development<br />Laravel 5 | Symfony 3 | Vuejs | ReactJS | Docker | CI | Apache Cordova",
-      "startDate": "2010",
+      "title": "Campus Ambassdor",
+      "summary": "Promoting hasura in college campus",
+      "startDate": "2018",
       "endDate": "Today",
       "isCurrent": true,
-      "company": "NanokaWeb"
+      "company": "Hasura"
     },
     {
-      "title": "Teacher",
-      "summary": "Intervened on the web development<br />PHP (Basics, OOP, Framework Laravel) | MySQL",
-      "startDate": "2016",
+      "title": "Front-End Intern",
+      "summary": "Intervened on the web development<br />ReactJS | NodeJS ",
+      "startDate": "2017",
       "endDate": "Today",
       "isCurrent": true,
-      "company": "Sup’ La Mache"
+      "company": "Hasura"
     },
     {
-      "title": "Senior web dev & CTO / Lead developer",
-      "summary": "PHP/MySQL/Javascript development <br />Solire Framework | Jquery | AngularJS",
-      "startDate": "2009",
+      "title": "Product Development Intern",
+      "summary": "Java | Android App Development",
+      "startDate": "2017",
       "endDate": "2017",
-      "isCurrent": true,
-      "company": "Solire"
+      "isCurrent": false,
+      "company": "Hasura"
     }
   ],
   "interests": "",
   "languages": [
     {
-      "name": "French",
+      "name": "Hindi",
       "level": "Native",
       "levelNumber": 10
     },
@@ -99,50 +99,23 @@
       "level": "Professional working proficiency",
       "levelNumber": 6
     },
+  
     {
-      "name": "Japanese",
-      "level": "Professional working proficiency",
+      "name": "Bhojpuri",
+      "level": "Intermediate proficiency",
       "levelNumber": 6
-    },
-    {
-      "name": "Korean",
+    } , {
+      "name": "Chhattisgadhi",
       "level": "Elementary proficiency",
-      "levelNumber": 2
+      "levelNumber": 3
     }
   ],
   "skills": [
+   
+  
+    
     {
-      "name": "Laravel 5",
-      "language": {
-        "name": "PHP",
-        "style": "php"
-      },
-      "category": {
-        "name": "Frameworks / SDK / CMS"
-      }
-    },
-    {
-      "name": "Symfony 2 & 3",
-      "language": {
-        "name": "PHP",
-        "style": "php"
-      },
-      "category": {
-        "name": "Frameworks / SDK / CMS"
-      }
-    },
-    {
-      "name": "Ruby on Rails",
-      "language": {
-        "name": "Ruby",
-        "style": "ruby"
-      },
-      "category": {
-        "name": "Frameworks / SDK / CMS"
-      }
-    },
-    {
-      "name": "API development with Rails",
+      "name": "API development with NodeJS",
       "language": {
         "name": "Ruby",
         "style": "ruby"
@@ -172,7 +145,7 @@
       }
     },
     {
-      "name": "React Native",
+      "name": "NodeJS",
       "language": {
         "name": "Javascript",
         "style": "javascript"
@@ -201,16 +174,7 @@
         "name": "Languages"
       }
     },
-    {
-      "name": "Facebook SDK",
-      "language": {
-        "name": "Javascript",
-        "style": "javascript"
-      },
-      "category": {
-        "name": "Frameworks / SDK / CMS"
-      }
-    },
+  
     {
       "name": "Facebook SDK",
       "language": {
@@ -344,23 +308,23 @@
       }
     }
   ],
-  "tools": "Operating system: Linux(over ten years)<br />IDE: PhpStorm / RubyMine<br />Containerization: Docker<br />Continuous integration software: Jenkins / Gitlab-CI / Travis<br />Project Management Software: Jira / Gitlab<br />Version control system software: Gitlab / Github<br />",
+  "tools": "Operating system: Linux(over one years)<br />IDE: Visual Studio Code / Eclipse / Android Studio<br />Version control system : git<br />",
   "educations": [
     {
-      "schoolName": "Claude Bernard University Lyon 1",
-      "fieldOfStudy": "Metinet (web development)",
-      "startDate": "2009",
-      "endDate": "2010",
-      "degree": "License",
-      "activities": "Database, PHP, Flash, Java, English, Communication, Javascript"
+      "schoolName": "Shri Shankracharya Engineering College, Bhilai",
+      "fieldOfStudy": "Bachelor of Engineering",
+      "startDate": "2014",
+      "endDate": "2018",
+      "degree": "Shri Shankracharya Engineering College, Bhilai",
+      "activities": "Computer Science and Engineering"
     },
     {
-      "schoolName": "Joseph Marie Carriat high school",
-      "fieldOfStudy": "Business informatics",
-      "startDate": "2007",
-      "endDate": "2009",
-      "degree": "Brevet de technicien supérieur (BTS)",
-      "activities": "Programming, English, Mathematics, Management"
+      "schoolName": "Edward Public School",
+      "fieldOfStudy": "Higher Secondary School Examination",
+      "startDate": "2012",
+      "endDate": "2014",
+      "degree": "Edward Public School, Ambikapur",
+      "activities": ""
     }
   ],
   "projects": [
@@ -663,33 +627,21 @@
   ],
   "volunteer": [
     {
-      "name": ""
+      "name": "dfghj"
     }
   ],
   "hobbies": [
+   
+    
     {
-      "name": "Cooking",
-      "icon": "restaurant"
-    },
-    {
-      "name": "Trips",
-      "icon": "flight"
-    },
-    {
-      "name": "Learning languages",
+      "name": "Reading",
       "icon": "school"
     },
+  
     {
-      "name": "Biking",
-      "icon": "directions_bike"
-    },
-    {
-      "name": "Photography",
-      "icon": "photo_camera"
-    },
-    {
-      "name": "Trading",
-      "icon": "attach_money"
+      "name": "Programming",
+      "icon": "code"
     }
+ 
   ]
 }
