@@ -111,11 +111,67 @@
     }
   ],
   "skills": [
-   
+    {
+      "name": "Swing",
+      "language": {
+        "name": "java",
+        "style": "java"
+      },
+      "category": {
+        "name": "Frameworks / SDK / CMS"
+      }
+    },
+    {
+      "name": "JDBC",
+      "language": {
+        "name": "java",
+        "style": "java"
+      },
+      "category": {
+        "name": "Frameworks / SDK / CMS"
+      }
+    },
+    {
+      "name": "Servlet",
+      "language": {
+        "name": "java",
+        "style": "java"
+      },
+      "category": {
+        "name": "Frameworks / SDK / CMS"
+      }
+    },
+    {
+      "name": "JSP",
+      "language": {
+        "name": "java",
+        "style": "java"
+      },
+      "category": {
+        "name": "Frameworks / SDK / CMS"
+      }
+    },  {
+      "name": "SparkJava",
+      "language": {
+        "name": "java",
+        "style": "java"
+      },
+      "category": {
+        "name": "Frameworks / SDK / CMS"
+      }
+    },
   
-    
-   
-    
+  
+    {
+      "name": "Native and Hybrid Mobile App Development",
+      "language": {
+        "name": "Android",
+        "style": "android"
+      },
+      "category": {
+        "name": "Frameworks / SDK / CMS"
+      }
+    },
     {
       "name": "React",
       "language": {
@@ -129,8 +185,17 @@
     {
       "name": "NodeJS",
       "language": {
-        "name": "NodeJS",
-        "style": "node"
+        "name": "Javascript",
+        "style": "javascript"
+      },
+      "category": {
+        "name": "Frameworks / SDK / CMS"
+      }
+    },{
+      "name": "Express",
+      "language": {
+        "name": "Javascript",
+        "style": "javascript"
       },
       "category": {
         "name": "Frameworks / SDK / CMS"
@@ -160,7 +225,7 @@
     
   
     {
-      "name": "SQL (MYSQL, PostgreSQL, PostGIS)",
+      "name": "Material UI",
       "language": {
         "name": "Others",
         "style": "others"
@@ -169,16 +234,7 @@
         "name": "Languages"
       }
     },
-    {
-      "name": "Continuous integration",
-      "language": {
-        "name": "Others",
-        "style": "others"
-      },
-      "category": {
-        "name": "Languages"
-      }
-    },
+   
    
     {
       "name": "HTML5/CSS3",
@@ -190,26 +246,8 @@
         "name": "Frameworks / SDK / CMS"
       }
     },
-    {
-      "name": "Bootstrap",
-      "language": {
-        "name": "Others",
-        "style": "others"
-      },
-      "category": {
-        "name": "Frameworks / SDK / CMS"
-      }
-    },
-    {
-      "name": "JQUERY",
-      "language": {
-        "name": "Javascript",
-        "style": "javascript"
-      },
-      "category": {
-        "name": "Frameworks / SDK / CMS"
-      }
-    },
+  
+
   
     {
       "name": "Linux",
