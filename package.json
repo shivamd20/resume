@@ -42,7 +42,8 @@
     "test": "node scripts/customized-config test --env=jsdom",
     "eject": "node scripts/customized-config eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "mdeploy" : "gh-pages --branch master -d build"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -61,5 +62,5 @@
       "--disable-setuid-sandbox"
     ]
   },
-  "homepage": "https://shivamd20.github.io/about"
+  "homepage": "https://shivamd20.github.io/"
 }
