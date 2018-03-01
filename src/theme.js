@@ -18,7 +18,7 @@ import IconGit from 'react-devicon/git/original'
 
 const theme = {
   
-  laravelColor: {
+  javaColor: {
     style: {
       background: '#fd4f31',
       color: '#fff',
@@ -26,7 +26,7 @@ const theme = {
     className: 'vertical-timeline-element--laravel',
     icon: <IconJava />,
   },
-  phpColor: {
+  nodeColor: {
     style: {
       background: '#1CA554',
       color: '#lightGreen',
@@ -42,7 +42,7 @@ const theme = {
     className: 'vertical-timeline-element--react',
     icon: <ReactIcon />,
   },
-  rubyColor: {
+  androidColor: {
     style: {
       background: 'green',
       color: '#fff',
@@ -50,7 +50,7 @@ const theme = {
     className: 'vertical-timeline-element--ruby',
     icon: <IconAndroid />,
   },
-  railsColor: {
+  npmColor: {
     style: {
       background: '#a62c46',
       color: '#fff',
@@ -66,7 +66,7 @@ const theme = {
     className: 'vertical-timeline-element--javascript',
     icon: <JavascriptIcon />,
   },
-  dockerColor: {
+  gitColor: {
     style: {
       background: '#019bc6',
       color: '#fff',

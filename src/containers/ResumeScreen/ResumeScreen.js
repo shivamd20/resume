@@ -6,12 +6,13 @@ import cvEN from '../../data/en.json';
 import cvPDFFR from '../../data/fr.pdf';
 import cvPDFJA from '../../data/ja.pdf';
 import cvPDFEN from '../../data/en.pdf';
+import cvHindi from '../../data/hi.json';
 import Resume from '../Resume/Resume';
 
 class ResumeScreen extends Component {
   componentWillMount() {
     this.setState({
-      cvs: {fr: cvFR, ja: cvJA, en: cvEN},
+      cvs: {fr: cvFR, ja: cvJA, en: cvEN, hi: cvHindi},
       cvPDFs: {fr: cvPDFFR, ja: cvPDFJA, en: cvPDFEN}
     });
   }

@@ -6,7 +6,9 @@ import languages from '../../i18n/languages.json';
 const LanguagePicker = () => (
   <div>
     {languages.map((language, i) =>
-      <Button key={i} color="contrast" component={Link} to={'/' + language.url + '.html'}>{language.name}</Button>
+      <Button key={i} color="contrast" component={Link} to={'/' + language.url + '.html'} style={
+        {color : 'white'}
+      }>{language.name}</Button>
     )}
   </div>
 );

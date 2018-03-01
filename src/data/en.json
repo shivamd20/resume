@@ -114,26 +114,8 @@
    
   
     
-    {
-      "name": "API development with NodeJS",
-      "language": {
-        "name": "Ruby",
-        "style": "ruby"
-      },
-      "category": {
-        "name": "Frameworks / SDK / CMS"
-      }
-    },
-    {
-      "name": "RSpec",
-      "language": {
-        "name": "Ruby",
-        "style": "ruby"
-      },
-      "category": {
-        "name": "Frameworks / SDK / CMS"
-      }
-    },
+   
+    
     {
       "name": "React",
       "language": {
@@ -147,8 +129,8 @@
     {
       "name": "NodeJS",
       "language": {
-        "name": "Javascript",
-        "style": "javascript"
+        "name": "NodeJS",
+        "style": "node"
       },
       "category": {
         "name": "Frameworks / SDK / CMS"
@@ -175,26 +157,8 @@
       }
     },
   
-    {
-      "name": "Facebook SDK",
-      "language": {
-        "name": "PHP",
-        "style": "php"
-      },
-      "category": {
-        "name": "Frameworks / SDK / CMS"
-      }
-    },
-    {
-      "name": "API",
-      "language": {
-        "name": "PHP",
-        "style": "php"
-      },
-      "category": {
-        "name": "Frameworks / SDK / CMS"
-      }
-    },
+    
+  
     {
       "name": "SQL (MYSQL, PostgreSQL, PostGIS)",
       "language": {
@@ -215,16 +179,7 @@
         "name": "Languages"
       }
     },
-    {
-      "name": "TDD",
-      "language": {
-        "name": "Others",
-        "style": "others"
-      },
-      "category": {
-        "name": "Languages"
-      }
-    },
+   
     {
       "name": "HTML5/CSS3",
       "language": {
@@ -255,54 +210,25 @@
         "name": "Frameworks / SDK / CMS"
       }
     },
-    {
-      "name": "Wordpress",
-      "language": {
-        "name": "PHP",
-        "style": "php"
-      },
-      "category": {
-        "name": "Frameworks / SDK / CMS"
-      }
-    },
+  
     {
       "name": "Linux",
       "category": {
         "name": "Tools"
       }
     },
-    {
-      "name": "Docker",
-      "category": {
-        "name": "Tools"
-      }
-    },
-    {
-      "name": "JIRA/Redmine",
-      "category": {
-        "name": "Tools"
-      }
-    },
+   
+  
     {
       "name": "GIT",
       "category": {
         "name": "Tools"
       }
     },
+  
+   
     {
-      "name": "Jenkins/Gitlab-CI",
-      "category": {
-        "name": "Tools"
-      }
-    },
-    {
-      "name": "Docker",
-      "category": {
-        "name": "Tools"
-      }
-    },
-    {
-      "name": "GITLAB/GITHUB",
+      "name": "GITHUB",
       "category": {
         "name": "Tools"
       }
@@ -352,100 +278,6 @@
       "date": "2018-01-24"
     },
     {
-      "title": "Leo Pole Consulting SAS",
-      "subtitle": "WordPress Project",
-      "category": "project",
-      "subcategory": "wordpress",
-      "links": [
-        {
-          "url": "http://leo-pole.fr/",
-          "text": "Visit website"
-        }
-      ],
-      "technologies": [
-        {
-          "name": "PHP"
-        },
-        {
-          "name": "WordPress"
-        },
-        {
-          "name": "Multi-language"
-        }
-      ],
-      "content": "Showcase website of the Leo Pole Consulting SAS company built with WordPress in French and English.",
-      "date": "2018-01-10"
-    },
-    {
-      "title": "Resume generator",
-      "subtitle": "Laravel Project",
-      "category": "project",
-      "subcategory": "laravel",
-      "links": [],
-      "technologies": [
-        {
-          "name": "PHP"
-        },
-        {
-          "name": "Laravel"
-        },
-        {
-          "name": "Continuous deployment"
-        }
-      ],
-      "content": "Website which gives the ability to generate resume from a JSON. A resume is a combination of a PDF resume and a website resume in React.",
-      "date": "In progress"
-    },
-    {
-      "title": "MACSF LIBEA",
-      "subtitle": "Apache Cordova Project",
-      "category": "project",
-      "subcategory": "cordova",
-      "links": [],
-      "technologies": [
-        {
-          "name": "Apache Cordova"
-        },
-        {
-          "name": "IOS"
-        },
-        {
-          "name": "Android"
-        }
-      ],
-      "content": "Mobile application (IOS/Android) of the MACSF LIBEA insurance company which gives the ability to manage some services in the case of accident, such as finding taxi and workshop, sending invoices for reimbursement.",
-      "date": "2017-12-15"
-    },
-    {
-      "title": "Saint-Fons JAZZ",
-      "subtitle": "Laravel Project",
-      "category": "project",
-      "subcategory": "laravel",
-      "links": [
-        {
-          "url": "https://stfonsjazz.nanoka.fr/",
-          "text": "Visit sample website"
-        },
-        {
-          "url": "http://www.saint-fons-jazz.fr/",
-          "text": "Visit website"
-        }
-      ],
-      "technologies": [
-        {
-          "name": "PHP"
-        },
-        {
-          "name": "Laravel"
-        },
-        {
-          "name": "Continuous deployment"
-        }
-      ],
-      "content": "Website of the Saint-Fons Jazz school which gives the ability to book concerts and list meetings of Saint-Fons Jazz festival.",
-      "date": "2017-12-08"
-    },
-    {
       "title": "React pen pals Frontend",
       "subtitle": "React Project",
       "category": "project",
@@ -472,34 +304,6 @@
         }
       ],
       "content": "Frontend of pen pals application developed with React.",
-      "date": "In progress"
-    },
-    {
-      "title": "Pen pals API Backend",
-      "subtitle": "API Rails application",
-      "category": "project",
-      "subcategory": "rails",
-      "links": [
-        {
-          "url": "https://github.com/stephane-monnot/penpals-backend",
-          "text": "View source code"
-        }
-      ],
-      "technologies": [
-        {
-          "name": "Ruby on Rails"
-        },
-        {
-          "name": "RSpec"
-        },
-        {
-          "name": "API"
-        },
-        {
-          "name": "Docker"
-        }
-      ],
-      "content": "API to manage messages between pen pals.",
       "date": "In progress"
     },
     {
@@ -553,77 +357,9 @@
       ],
       "content": "My resume in japanese, french and english, developed with React.<br> With a score of 100/100 on PageSpeed Insights (mobile & desktop).",
       "date": "2017-10-02"
-    },
-    {
-      "title": "Laravel 5 Friendships",
-      "subtitle": "Laravel Library",
-      "category": "library",
-      "subcategory": "laravel",
-      "contribution": true,
-      "links": [
-        {
-          "url": "https://github.com/hootlex/laravel-friendships/commits?author=stephane-monnot",
-          "text": "View commits"
-        }
-      ],
-      "technologies": [
-        {
-          "name": "PHP"
-        },
-        {
-          "name": "Laravel"
-        },
-        {
-          "name": "PHPUnit"
-        }
-      ],
-      "content": "Contributions to a Laravel library which gives the ability to manage friendships with Eloquent models.<br />Add new functionalities, improve build, add Unit tests, documentation, ...",
-      "date": "2016-03-05"
-    },
-    {
-      "title": "MySQL User Account Management in PHP",
-      "subtitle": "Standalone PHP Library",
-      "category": "library",
-      "subcategory": "php",
-      "links": [
-        {
-          "url": "https://github.com/stephane-monnot/db-user",
-          "text": "View source code"
-        }
-      ],
-      "technologies": [
-        {
-          "name": "PHP"
-        },
-        {
-          "name": "Atoum"
-        }
-      ],
-      "content": "Library which makes easier the MySQL User Account Management in PHP and it avoids the use of raw SQL queries.",
-      "date": "2015-10-02"
-    },
-    {
-      "title": "GOCR for PHP",
-      "subtitle": "Standalone PHP Library",
-      "category": "library",
-      "subcategory": "php",
-      "links": [
-        {
-          "url": "https://github.com/stephane-monnot/gocr-php",
-          "text": "View source code"
-        }
-      ],
-      "technologies": [
-        {
-          "name": "PHP"
-        },
-        {
-          "name": "Atoum"
-        }
-      ],
-      "content": "A wrapper to work with Gocr inside PHP scripts. This library makes easier the use of the OCR software named GOCR.",
-      "date": "2015-09-07"
     }
+  
+
   ],
   "volunteer": [
     {

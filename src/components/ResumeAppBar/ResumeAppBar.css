@@ -1,24 +1,33 @@
 
 .ResumeAppBar-title {
     flex: 1;
+    color: white;
 }
 
 .ResumeAppBar {
     background: transparent !important;
     box-shadow: none !important;
+    color: white;
 }
 
 .ResumeAppBar-header {
     justify-content: flex-end;
+    color: white;
 }
 
 @media only screen and (max-width: 800px) {
     .ResumeAppBar-header {
         flex-wrap: wrap-reverse;
         justify-content: center;
+        color: white;
     }
 
     .ResumeAppBar-title {
         display: none !important;
+        color: white;
     }
+}
+
+.white-color{
+    color: white
 }

@@ -33,23 +33,23 @@ class ResumeHomeBlock extends React.Component {
 
         <div className="ResumeHomeBlock-squares">
           <GridBackground>
-            <div style={{ ...appTheme.laravelColor.style }}>
-              {appTheme.laravelColor.icon}
+            <div style={{ ...appTheme.javaColor.style }}>
+              {appTheme.javaColor.icon}
             </div>
-            <div style={{ ...appTheme.phpColor.style }}>
-              {appTheme.phpColor.icon}
+            <div style={{ ...appTheme.nodeColor.style }}>
+              {appTheme.nodeColor.icon}
             </div>
             <div style={{ ...appTheme.reactColor.style }}>
               {appTheme.reactColor.icon}
             </div>
-            <div style={{ ...appTheme.rubyColor.style }}>
-              {appTheme.rubyColor.icon}
+            <div style={{ ...appTheme.androidColor.style }}>
+              {appTheme.androidColor.icon}
             </div>
             <div style={{ ...appTheme.javascriptColor.style }}>
               {appTheme.javascriptColor.icon}
             </div>
-            <div style={{ ...appTheme.dockerColor.style }}>
-              {appTheme.dockerColor.icon}
+            <div style={{ ...appTheme.gitColor.style }}>
+              {appTheme.gitColor.icon}
             </div>
           </GridBackground>
         </div>

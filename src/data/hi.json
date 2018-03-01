@@ -1,0 +1,647 @@
+{
+    "meta": {
+      "title": "Resume - Shivam Kumar Dwivedi : web developer in India",
+      "keywords": "India, React, JAVA, JAVASCRIPT,Database, PHP, Flash, Java, English, Communication, Javascript",
+      "description": "Shivam Dwivedi, web development expert in Chhattisgarh, India. Specialities: HTML5, React, Redux, Java, Android."
+    },
+    "firstName": "Shivam",
+    "lastName": "Dwivedi",
+    "emailAddress": "shivamd20@gmail.com",
+    "headline": "Full-stack Web Developer in India",
+    "summary": "Experienced Web and Mobile App Developer  with a demonstrated history of working in the internet industry. Skilled in Java (Android App Development, Swing, Servlets, JSP), JavaScript (ReactJS, NodeJS) with git as version control system.",
+    "pictureUrl": "http://nptel.ac.in/noc/Candidate_photopath/Jan-Mar%202017/STMAR171008617_photo.jpg",
+    "dateOfBirth": "1996-09-29",
+    "mainAddress": "Bhilai, Chhattisgarh",
+    "websites": [
+      {
+        "type": "Linkedin",
+        "url": "dakshya.tech"
+      }
+    ],
+    "phoneNumbers": [
+      {
+        "type": "Work",
+        "number": "+91 7389630407"
+      },
+      {
+        "type": "Personal",
+        "number": "+91 7000858544"
+      }
+    ],
+    "imAccounts": [
+      {
+        "type": "Line",
+        "name": "shivamd20"
+      },
+      {
+        "type": "Skype",
+        "name": "shivamd20@outlook.com"
+      }
+    ],
+    "snsAccounts": [
+      {
+        "name": "Linkedin",
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/in/shivamd20/"
+      },
+      {
+        "name": "Github",
+        "icon": "github",
+        "url": "https://github.com/shivamd20"
+      }
+    ],
+    "locations": [
+      {
+        "name": "Bhilai",
+        "country": "India",
+        "isCurrent": true
+      },
+      {
+        "name": "Ambikapur",
+        "country": "India"
+      }
+    ],
+    "positions": [
+      {
+        "title": "Campus Ambassdor",
+        "summary": "Promoting hasura in college campus",
+        "startDate": "2018",
+        "endDate": "Today",
+        "isCurrent": true,
+        "company": "Hasura"
+      },
+      {
+        "title": "Front-End Intern",
+        "summary": "Intervened on the web development<br />ReactJS | NodeJS ",
+        "startDate": "2017",
+        "endDate": "Today",
+        "isCurrent": true,
+        "company": "Hasura"
+      },
+      {
+        "title": "Product Development Intern",
+        "summary": "Java | Android App Development",
+        "startDate": "2017",
+        "endDate": "2017",
+        "isCurrent": false,
+        "company": "Hasura"
+      }
+    ],
+    "interests": "",
+    "languages": [
+      {
+        "name": "Hindi",
+        "level": "Native",
+        "levelNumber": 10
+      },
+      {
+        "name": "English",
+        "level": "Professional working proficiency",
+        "levelNumber": 6
+      },
+    
+      {
+        "name": "Bhojpuri",
+        "level": "Intermediate proficiency",
+        "levelNumber": 6
+      } , {
+        "name": "Chhattisgadhi",
+        "level": "Elementary proficiency",
+        "levelNumber": 3
+      }
+    ],
+    "skills": [
+     
+    
+      
+      {
+        "name": "API development with NodeJS",
+        "language": {
+          "name": "Ruby",
+          "style": "ruby"
+        },
+        "category": {
+          "name": "Frameworks / SDK / CMS"
+        }
+      },
+      {
+        "name": "RSpec",
+        "language": {
+          "name": "Ruby",
+          "style": "ruby"
+        },
+        "category": {
+          "name": "Frameworks / SDK / CMS"
+        }
+      },
+      {
+        "name": "React",
+        "language": {
+          "name": "Javascript",
+          "style": "javascript"
+        },
+        "category": {
+          "name": "Frameworks / SDK / CMS"
+        }
+      },
+      {
+        "name": "NodeJS",
+        "language": {
+          "name": "Javascript",
+          "style": "javascript"
+        },
+        "category": {
+          "name": "Frameworks / SDK / CMS"
+        }
+      },
+      {
+        "name": "Redux",
+        "language": {
+          "name": "Javascript",
+          "style": "javascript"
+        },
+        "category": {
+          "name": "Frameworks / SDK / CMS"
+        }
+      },
+      {
+        "name": "ES6",
+        "language": {
+          "name": "Javascript",
+          "style": "javascript"
+        },
+        "category": {
+          "name": "Languages"
+        }
+      },
+    
+      {
+        "name": "Facebook SDK",
+        "language": {
+          "name": "PHP",
+          "style": "php"
+        },
+        "category": {
+          "name": "Frameworks / SDK / CMS"
+        }
+      },
+      {
+        "name": "API",
+        "language": {
+          "name": "PHP",
+          "style": "php"
+        },
+        "category": {
+          "name": "Frameworks / SDK / CMS"
+        }
+      },
+      {
+        "name": "SQL (MYSQL, PostgreSQL, PostGIS)",
+        "language": {
+          "name": "Others",
+          "style": "others"
+        },
+        "category": {
+          "name": "Languages"
+        }
+      },
+      {
+        "name": "Continuous integration",
+        "language": {
+          "name": "Others",
+          "style": "others"
+        },
+        "category": {
+          "name": "Languages"
+        }
+      },
+      {
+        "name": "TDD",
+        "language": {
+          "name": "Others",
+          "style": "others"
+        },
+        "category": {
+          "name": "Languages"
+        }
+      },
+      {
+        "name": "HTML5/CSS3",
+        "language": {
+          "name": "Others",
+          "style": "others"
+        },
+        "category": {
+          "name": "Frameworks / SDK / CMS"
+        }
+      },
+      {
+        "name": "Bootstrap",
+        "language": {
+          "name": "Others",
+          "style": "others"
+        },
+        "category": {
+          "name": "Frameworks / SDK / CMS"
+        }
+      },
+      {
+        "name": "JQUERY",
+        "language": {
+          "name": "Javascript",
+          "style": "javascript"
+        },
+        "category": {
+          "name": "Frameworks / SDK / CMS"
+        }
+      },
+      {
+        "name": "Wordpress",
+        "language": {
+          "name": "PHP",
+          "style": "php"
+        },
+        "category": {
+          "name": "Frameworks / SDK / CMS"
+        }
+      },
+      {
+        "name": "Linux",
+        "category": {
+          "name": "Tools"
+        }
+      },
+      {
+        "name": "Docker",
+        "category": {
+          "name": "Tools"
+        }
+      },
+      {
+        "name": "JIRA/Redmine",
+        "category": {
+          "name": "Tools"
+        }
+      },
+      {
+        "name": "GIT",
+        "category": {
+          "name": "Tools"
+        }
+      },
+      {
+        "name": "Jenkins/Gitlab-CI",
+        "category": {
+          "name": "Tools"
+        }
+      },
+      {
+        "name": "Docker",
+        "category": {
+          "name": "Tools"
+        }
+      },
+      {
+        "name": "GITLAB/GITHUB",
+        "category": {
+          "name": "Tools"
+        }
+      }
+    ],
+    "tools": "Operating system: Linux(over one years)<br />IDE: Visual Studio Code / Eclipse / Android Studio<br />Version control system : git<br />",
+    "educations": [
+      {
+        "schoolName": "Shri Shankracharya Engineering College, Bhilai",
+        "fieldOfStudy": "Bachelor of Engineering",
+        "startDate": "2014",
+        "endDate": "2018",
+        "degree": "Shri Shankracharya Engineering College, Bhilai",
+        "activities": "Computer Science and Engineering"
+      },
+      {
+        "schoolName": "Edward Public School",
+        "fieldOfStudy": "Higher Secondary School Examination",
+        "startDate": "2012",
+        "endDate": "2014",
+        "degree": "Edward Public School, Ambikapur",
+        "activities": ""
+      }
+    ],
+    "projects": [
+      {
+        "title": "React Fake Code Typing",
+        "subtitle": "React Component",
+        "category": "library",
+        "subcategory": "react",
+        "links": [
+          {
+            "url": "https://stephanemonnot.com/404.html",
+            "text": "View demo"
+          },
+          {
+            "url": "https://github.com/stephane-monnot/react-fake-code-typing",
+            "text": "View source code"
+          }
+        ],
+        "technologies": [
+          {
+            "name": "ReactJS"
+          }
+        ],
+        "content": "A react component to generate fake code typing.",
+        "date": "2018-01-24"
+      },
+      {
+        "title": "Leo Pole Consulting SAS",
+        "subtitle": "WordPress Project",
+        "category": "project",
+        "subcategory": "wordpress",
+        "links": [
+          {
+            "url": "http://leo-pole.fr/",
+            "text": "Visit website"
+          }
+        ],
+        "technologies": [
+          {
+            "name": "PHP"
+          },
+          {
+            "name": "WordPress"
+          },
+          {
+            "name": "Multi-language"
+          }
+        ],
+        "content": "Showcase website of the Leo Pole Consulting SAS company built with WordPress in French and English.",
+        "date": "2018-01-10"
+      },
+      {
+        "title": "Resume generator",
+        "subtitle": "Laravel Project",
+        "category": "project",
+        "subcategory": "laravel",
+        "links": [],
+        "technologies": [
+          {
+            "name": "PHP"
+          },
+          {
+            "name": "Laravel"
+          },
+          {
+            "name": "Continuous deployment"
+          }
+        ],
+        "content": "Website which gives the ability to generate resume from a JSON. A resume is a combination of a PDF resume and a website resume in React.",
+        "date": "In progress"
+      },
+      {
+        "title": "MACSF LIBEA",
+        "subtitle": "Apache Cordova Project",
+        "category": "project",
+        "subcategory": "cordova",
+        "links": [],
+        "technologies": [
+          {
+            "name": "Apache Cordova"
+          },
+          {
+            "name": "IOS"
+          },
+          {
+            "name": "Android"
+          }
+        ],
+        "content": "Mobile application (IOS/Android) of the MACSF LIBEA insurance company which gives the ability to manage some services in the case of accident, such as finding taxi and workshop, sending invoices for reimbursement.",
+        "date": "2017-12-15"
+      },
+      {
+        "title": "Saint-Fons JAZZ",
+        "subtitle": "Laravel Project",
+        "category": "project",
+        "subcategory": "laravel",
+        "links": [
+          {
+            "url": "https://stfonsjazz.nanoka.fr/",
+            "text": "Visit sample website"
+          },
+          {
+            "url": "http://www.saint-fons-jazz.fr/",
+            "text": "Visit website"
+          }
+        ],
+        "technologies": [
+          {
+            "name": "PHP"
+          },
+          {
+            "name": "Laravel"
+          },
+          {
+            "name": "Continuous deployment"
+          }
+        ],
+        "content": "Website of the Saint-Fons Jazz school which gives the ability to book concerts and list meetings of Saint-Fons Jazz festival.",
+        "date": "2017-12-08"
+      },
+      {
+        "title": "React pen pals Frontend",
+        "subtitle": "React Project",
+        "category": "project",
+        "subcategory": "react",
+        "links": [
+          {
+            "url": "https://penpals.pages.gitlab.nanoka.fr/frontend/",
+            "text": "Visit website"
+          },
+          {
+            "url": "https://github.com/stephane-monnot/penpals-frontend",
+            "text": "View source code"
+          }
+        ],
+        "technologies": [
+          {
+            "name": "React"
+          },
+          {
+            "name": "Redux"
+          },
+          {
+            "name": "Continuous deployment"
+          }
+        ],
+        "content": "Frontend of pen pals application developed with React.",
+        "date": "In progress"
+      },
+      {
+        "title": "Pen pals API Backend",
+        "subtitle": "API Rails application",
+        "category": "project",
+        "subcategory": "rails",
+        "links": [
+          {
+            "url": "https://github.com/stephane-monnot/penpals-backend",
+            "text": "View source code"
+          }
+        ],
+        "technologies": [
+          {
+            "name": "Ruby on Rails"
+          },
+          {
+            "name": "RSpec"
+          },
+          {
+            "name": "API"
+          },
+          {
+            "name": "Docker"
+          }
+        ],
+        "content": "API to manage messages between pen pals.",
+        "date": "In progress"
+      },
+      {
+        "title": "React Vertical Timeline",
+        "subtitle": "React Component",
+        "category": "library",
+        "subcategory": "react",
+        "links": [
+          {
+            "url": "https://stephane-monnot.github.io/react-vertical-timeline/",
+            "text": "Visit website"
+          },
+          {
+            "url": "https://github.com/stephane-monnot/react-vertical-timeline",
+            "text": "View source code"
+          }
+        ],
+        "technologies": [
+          {
+            "name": "ReactJS"
+          }
+        ],
+        "content": "A react component to generate responsive vertical timeline.",
+        "date": "2017-10-27"
+      },
+      {
+        "title": "React Resume",
+        "subtitle": "React Project",
+        "category": "project",
+        "subcategory": "react",
+        "links": [
+          {
+            "url": "https://stephanemonnot.com/",
+            "text": "Visit website"
+          },
+          {
+            "url": "https://github.com/stephane-monnot/resume",
+            "text": "View source code"
+          }
+        ],
+        "technologies": [
+          {
+            "name": "ReactJS"
+          },
+          {
+            "name": "Redux"
+          },
+          {
+            "name": "Continuous deployment"
+          }
+        ],
+        "content": "My resume in japanese, french and english, developed with React.<br> With a score of 100/100 on PageSpeed Insights (mobile & desktop).",
+        "date": "2017-10-02"
+      },
+      {
+        "title": "Laravel 5 Friendships",
+        "subtitle": "Laravel Library",
+        "category": "library",
+        "subcategory": "laravel",
+        "contribution": true,
+        "links": [
+          {
+            "url": "https://github.com/hootlex/laravel-friendships/commits?author=stephane-monnot",
+            "text": "View commits"
+          }
+        ],
+        "technologies": [
+          {
+            "name": "PHP"
+          },
+          {
+            "name": "Laravel"
+          },
+          {
+            "name": "PHPUnit"
+          }
+        ],
+        "content": "Contributions to a Laravel library which gives the ability to manage friendships with Eloquent models.<br />Add new functionalities, improve build, add Unit tests, documentation, ...",
+        "date": "2016-03-05"
+      },
+      {
+        "title": "MySQL User Account Management in PHP",
+        "subtitle": "Standalone PHP Library",
+        "category": "library",
+        "subcategory": "php",
+        "links": [
+          {
+            "url": "https://github.com/stephane-monnot/db-user",
+            "text": "View source code"
+          }
+        ],
+        "technologies": [
+          {
+            "name": "PHP"
+          },
+          {
+            "name": "Atoum"
+          }
+        ],
+        "content": "Library which makes easier the MySQL User Account Management in PHP and it avoids the use of raw SQL queries.",
+        "date": "2015-10-02"
+      },
+      {
+        "title": "GOCR for PHP",
+        "subtitle": "Standalone PHP Library",
+        "category": "library",
+        "subcategory": "php",
+        "links": [
+          {
+            "url": "https://github.com/stephane-monnot/gocr-php",
+            "text": "View source code"
+          }
+        ],
+        "technologies": [
+          {
+            "name": "PHP"
+          },
+          {
+            "name": "Atoum"
+          }
+        ],
+        "content": "A wrapper to work with Gocr inside PHP scripts. This library makes easier the use of the OCR software named GOCR.",
+        "date": "2015-09-07"
+      }
+    ],
+    "volunteer": [
+      {
+        "name": "dfghj"
+      }
+    ],
+    "hobbies": [
+     
+      
+      {
+        "name": "Reading",
+        "icon": "school"
+      },
+    
+      {
+        "name": "Programming",
+        "icon": "code"
+      }
+   
+    ]
+  }

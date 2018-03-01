@@ -60,6 +60,7 @@ class App extends Component {
                 <IntlRoute exact onChangeLanguage={onChangeLanguage} language={'fr'} path="/fr/cv.html" component={ResumeScreen} />
                 <IntlRoute exact onChangeLanguage={onChangeLanguage} language={'ja'} path="/ja/rirekisho.html" component={ResumeScreen} />
                 <IntlRoute exact onChangeLanguage={onChangeLanguage} language={'en'} path="/en/resume.html" component={ResumeScreen} />
+                <IntlRoute exact onChangeLanguage={onChangeLanguage} language={'hi'} path="/hi/cv.html" component={ResumeScreen} />
                 <IntlRoute onChangeLanguage={onChangeLanguage} language={'en'} component={NotFoundScreen} />
               </Switch>
             </div>

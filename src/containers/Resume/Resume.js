@@ -84,7 +84,7 @@ class Resume extends Component {
         <ResumeHomeBlock
           shortFullName={shortFullName}
           headline={this.props.headline}
-          style={appTheme.phpColor.style}
+          style={appTheme.gitColor.style}
         />
 
         <ResumeAboutMeBlock
@@ -93,7 +93,7 @@ class Resume extends Component {
           summary={this.props.summary}
           pictureUrl={this.props.pictureUrl}
           resumeUrl={cv}
-          style={appTheme.phpColor.style}
+          style={appTheme.gitColor.style}
         />
 
         <ResumeWorkAndEducationBlock
@@ -132,11 +132,11 @@ Resume.propTypes = {
 };
 
 Resume.defaultProps = {
-  firstName: 'Stéphane',
-  lastName: 'Monnot',
-  emailAddress: 'monnot.stephane@gmail.com',
-  headline: 'Full-stack web engineer',
-  summary: '♥ Microservice architecture lover ♥<br>Experienced Chief Technology Officer, Developer & Teacher with a demonstrated history of working in the internet industry. Skilled in PHP (Symfony & Laravel frameworks), TDD, continuous integration, WordPress, Linux System Administration, and Application Programming Interfaces. Strong engineering professional with a Licence focused in Web Development from Université Claude Bernard Lyon 1. My favourite stack : Laravel 5, Symfony 3, PHPUnit, PHPQA, Micro-services, Docker, ReactJS, ReactNative with continuous integration on Gitlab.',
+  firstName: 'Shivam',
+  lastName: 'Dwivedi',
+  emailAddress: 'shivamd20@gmail.com',
+  headline: 'Full-stack web Developer',
+  summary: '♥ Microservice architecture lover ♥<br>Web Developer with a demonstrated history of working in the internet industry. Skilled in PHP (Symfony & Laravel frameworks), TDD, continuous integration, WordPress, Linux System Administration, and Application Programming Interfaces. Strong engineering professional with a Licence focused in Web Development from Université Claude Bernard Lyon 1. My favourite stack : Laravel 5, Symfony 3, PHPUnit, PHPQA, Micro-services, Docker, ReactJS, ReactNative with continuous integration on Gitlab.',
   pictureUrl: 'https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAYqAAAAJGQ0YjYxNDI0LTEwOTMtNGVkNC1hNDIxLWYyNzNkMTYzNDMzNg.jpg',
   dateOfBirth: '1987-09-16',
   mainAddress: 'Noda, Osaka, Japan',
